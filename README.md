@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdullah Huseynli</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<img align="right" alt = "Coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0nDTfIRw8PP2Fnx5P-RIyY&ust=1717694991396000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjemM3-xIYDFQAAAAAdAAAAABAE" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=develeplorabdullahh" alt="develeplorabdullahh" /></a> </p>
 
-- 🔭 I’m currently working on **Youtube CLone**
+- 🔭 I’m currently working on **Web Coding**
 
 - 🌱 I’m currently learning **React JS, Next JS**
 
