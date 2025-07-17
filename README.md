@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Huseynli</h1>
-<h3 align="center">Lead and Passionate Web Developer and ML Specialist from Azerbaijan</h3>
+<h3 align="center">Passionate Web Developer and ML Engineer from Azerbaijan</h3>
 <img align="right" alt = "Coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2RkKnC_KGI5lA5x4VSov0x&ust=1717695117855000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKirqYj_xIYDFQAAAAAdAAAAABAE" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=develeplorabdullahh" alt="develeplorabdullahh" /></a> </p>
