@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=develeplorabdullahh" alt="develeplorabdullahh" /></a> </p>
 
-- 🔭 I’m currently working on **ABU AI**
+- 🔭 I’m currently working on **BotIntel AI**
 
 - 🌱 I’m currently learning **AI**
 
